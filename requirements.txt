@@ -1,0 +1,4 @@
+customtkinter==5.4.2
+pynput==1.8.1
+
+You shouldn't need to pip install shit since it's a compiled .exe

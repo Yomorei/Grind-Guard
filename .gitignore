@@ -1,0 +1,22 @@
+﻿# Python stuff
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Virtual env
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Skip flags and runtime state
+skip_flag
+config/config.json
+state.json
+log.txt
+
+# OS files
+.DS_Store
