@@ -1,16 +1,16 @@
-<<<<<<< HEAD
 # Grind-Guard
-A neat app that forces you to not be lazy 
 
-=======
->>>>>>> b82a87d (Initial commit: Grind Guard v1.0)
-Hello, thanks for downloading my repo. I made this as a challenge / due to boredom and gave myself a 1 hour time limit to complete this, it should work just fine. 
+A neat app that forces you to not be lazy
 
-The point of this is to reduce being lazy.. Reminds you, hey do this or you cant use your computer fucker, odv I could've added more "assurance" features like not being able to click "I'm Done" for about 10 minutes or so, ect, however it's not that deep. I did add a no escape function meaning your not opening your task manager (this is optional in the GUI) but the main point of this is so you do something good for yourself. 
+---
+
+Hello, thanks for downloading my repo. I made this as a challenge / due to boredom and gave myself a 1 hour time limit to complete this, it should work just fine.
+
+The point of this is to reduce being lazy.. Reminds you, hey do this or you cant use your computer fucker, odv I could've added more "assurance" features like not being able to click "I'm Done" for about 10 minutes or so, ect, however it's not that deep. I did add a no escape function meaning your not opening your task manager (this is optional in the GUI) but the main point of this is so you do something good for yourself.
 
 You're free to fork this idc, I also did just wanna upload something cause why not.
 
-------------------------------------------------------------------------------------------------------------
+---
 
 I ran out of time at the end, so the transparency of the overlay is fucked but if you want to change it:
 
@@ -20,9 +20,6 @@ Or: Option B: Force full opacity immediately by just replacing those two lines w
 
 ORRRRRR: Tweak the 0.8 in _fade_in to your desired final opacity (e.g. 1.0 for fully opaque). Easy as shit.
 
---------------------------------------------------------------------------------------------------------------------
-<<<<<<< HEAD
-=======
+---
 
 And if you're unsure how to actually find the .exe idk what to tell you bru XD
->>>>>>> b82a87d (Initial commit: Grind Guard v1.0)
